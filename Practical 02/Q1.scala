@@ -1,20 +1,23 @@
-object MyApp extends App()
+object Expressions extends App()
 {
-    val k=2
-    val i=2
-    val j=2
-    val m=5
-    val n=5
-    val f=12.0f
-    val g=4.0f
-    val c='X'
+   
+    var i, j, k = 2
+    var m, n = 5
 
-    println (s"k + 12 * m = ${k + 12*m}")
-    println (s"m / j = ${m/j}")
-    println (s"n % j = ${n%j}")
-    println (s"m / j * j = ${m/j*j}")
-    println (s"f + 10 * 5 + g = ${f+10*5+g}")
-    println (s"++i * n = ${(++i)*n}")
+    var g : Float = 12.0f
+    var f : Float = 4.0f
+    var c : Char = ' '
 
+    g = 12.0f
+    f = 4.0f
+    c = 'X'
+
+    println (k + 12 * m)
+    println (m / j)
+    println (n % j)
+    println (m / j * j)
+    println (f + 10*5 + g)
+    i += 1
+    println (i * n)
 }
 
