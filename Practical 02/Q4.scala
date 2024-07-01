@@ -15,7 +15,7 @@ def profit(ticketPrice: Int): Int = {
 }
 
 def printVal() = {
-  for (i <- -2 to 3) 
+  for (i <- -1 to 3) 
   {
     println("Ticket price " + (15 + i * 5) + " : " + profit(15 + (i * 5)));
   }
