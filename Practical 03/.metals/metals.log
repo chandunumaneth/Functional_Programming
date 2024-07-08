@@ -4519,3 +4519,431 @@ scala.meta.tokenizers.TokenizeException: <input>:7: error: unclosed string inter
 2024.07.01 22:59:44 INFO  shutting down Metals
 2024.07.01 22:59:44 INFO  Shut down connection with build server.
 2024.07.01 22:59:44 INFO  Exiting server
+2024.07.02 08:42:03 INFO  Started: Metals version 1.3.2 in folders 'D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03' for client Visual Studio Code 1.90.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@3bde4054]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@7309c501]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@3bde4054]
+2024.07.02 08:42:04 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.02 08:42:05 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:42:06 INFO  Attempting to connect to the build server...
+2024.07.02 08:42:06 INFO  Running BSP server List(C:\Users\manet\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\.scala-build\ide-options-v2.json, --json-launcher-options, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\.scala-build\ide-launcher-options.json, --envs-file, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\.scala-build\ide-envs.json, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03)
+2024.07.02 08:42:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\.metals\bsp.trace.json or C:\Users\manet\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.02 08:42:11 INFO  time: Connected to build server in 5.51s
+2024.07.02 08:42:11 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.02 08:42:12 INFO  time: Imported build in 0.11s
+2024.07.02 08:42:12 INFO  compiling practical 03_eabf8badfb (1 scala source)
+2024.07.02 08:42:13 INFO  time: indexed workspace in 1.55s
+2024.07.02 08:42:13 WARN  no build target for: D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q4.scala
+2024.07.02 08:42:13 WARN  no build target for: D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala
+2024.07.02 08:42:13 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:42:13 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:42:14 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q4.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:42:52 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:42:54 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:42:54 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:42:56 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:42:56 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:42:57 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:42:57 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:42:57 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:43:01 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:43:01 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:43:01 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:43:02 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:43:02 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:43:04 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:43:04 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:43:05 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:43:06 WARN  no build target for: D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala
+2024.07.02 08:43:06 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:44:30 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:45:07 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:45:13 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:45:44 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.02 08:45:54 INFO  Shutting down server
+2024.07.02 08:45:54 INFO  shutting down Metals
+2024.07.02 08:45:54 INFO  Shut down connection with build server.
+2024.07.02 08:45:54 INFO  Exiting server
+2024.07.06 22:49:45 INFO  Started: Metals version 1.3.2 in folders 'D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03' for client Visual Studio Code 1.91.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@625d704f]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@f117a35]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@625d704f]
+2024.07.06 22:49:46 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.06 22:49:48 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:49:48 INFO  Attempting to connect to the build server...
+2024.07.06 22:49:48 INFO  Running BSP server List(C:\Users\manet\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\.scala-build\ide-options-v2.json, --json-launcher-options, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\.scala-build\ide-launcher-options.json, --envs-file, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\.scala-build\ide-envs.json, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03)
+2024.07.06 22:49:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\.metals\bsp.trace.json or C:\Users\manet\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.06 22:49:51 INFO  BSP server: Starting compilation server
+2024.07.06 22:49:57 INFO  time: Connected to build server in 8.88s
+2024.07.06 22:49:57 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.06 22:49:57 INFO  time: Imported build in 0.14s
+2024.07.06 22:49:58 INFO  compiling practical 03_eabf8badfb (2 scala sources)
+2024.07.06 22:49:59 INFO  time: indexed workspace in 1.75s
+2024.07.06 22:49:59 WARN  no build target for: D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala
+2024.07.06 22:49:59 WARN  no build target for: D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala
+2024.07.06 22:49:59 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:49:59 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q3.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:49:59 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:50:18 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:50:18 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:50:22 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:50:22 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:50:22 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:50:28 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:50:28 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:50:28 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:50:29 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:50:29 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:50:29 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:50:29 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:50:29 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:50:30 WARN  no build target for: D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala
+2024.07.06 22:50:30 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:19 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:23 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:23 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:23 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:24 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:24 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:25 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:25 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:25 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:25 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 06, 2024 10:52:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 53
+2024.07.06 22:52:26 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:27 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:27 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:27 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:27 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:28 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:28 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:28 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:28 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:28 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:29 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:28 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:29 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:28 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:52:29 WARN  no build target for: D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala
+2024.07.06 22:52:30 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:12 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:12 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:12 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:12 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:16 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:16 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:16 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:16 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:16 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:17 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:17 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:17 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:17 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:17 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:17 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:17 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:17 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:18 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:18 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:18 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:18 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:19 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:19 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:18 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:18 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:19 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:20 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:20 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:20 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:20 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:19 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:22 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:22 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:22 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:22 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:22 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:22 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:22 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:23 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:23 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:23 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:23 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:23 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:23 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:23 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:23 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:23 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:53:25 WARN  no build target for: D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala
+2024.07.06 22:53:25 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:39 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:39 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:39 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:41 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:41 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:41 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:41 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:41 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:41 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:41 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:42 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:42 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:42 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:43 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:43 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:42 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:43 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:43 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:44 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:43 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 06, 2024 10:54:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 150
+2024.07.06 22:54:44 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:44 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:44 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:44 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:44 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:45 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:44 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:45 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:45 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:45 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:45 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:46 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:45 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:46 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:47 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:47 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:47 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:47 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:47 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:47 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:47 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:48 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:48 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:48 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:54:49 WARN  no build target for: D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala
+2024.07.06 22:54:49 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:16 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:16 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:18 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:18 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:18 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:18 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:19 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:19 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:18 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:19 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:20 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:20 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:23 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:23 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:23 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:23 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:23 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:23 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:24 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:27 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:27 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:27 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:27 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:27 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:27 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:27 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:28 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:28 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:28 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:28 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:28 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:28 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:29 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:29 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:29 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:29 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:29 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:30 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:30 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:30 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:31 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:55:31 WARN  no build target for: D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala
+2024.07.06 22:55:31 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:07 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:07 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:07 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:09 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:09 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:09 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:09 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:09 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:10 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:10 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:10 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:10 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:10 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:10 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:10 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:10 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:11 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:11 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:12 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:11 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:12 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:12 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:12 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:12 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:12 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:12 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:13 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:13 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:13 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:14 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:13 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:13 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:14 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:15 WARN  no build target for: D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala
+2024.07.06 22:56:15 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:51 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:51 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:51 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:53 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:53 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:53 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:53 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:53 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:53 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:53 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:54 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:54 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:54 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:54 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:54 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:54 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:54 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:54 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:54 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:56:55 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:02 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:02 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:02 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:02 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:02 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:02 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:02 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:03 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:02 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:05 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:05 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:05 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:05 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:05 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:05 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:05 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:05 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:06 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:06 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:06 WARN  no build target for: D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala
+2024.07.06 22:57:05 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:54 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:54 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:54 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:56 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:56 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:56 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:56 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:56 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:56 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:56 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:56 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:56 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:56 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:57 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:57 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:57 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:57 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:57 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:57 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:57 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:57 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:58 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:59 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:59 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:59 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:59 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:59 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:57:59 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:00 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:00 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:01 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:00 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:01 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:01 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:01 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:01 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:01 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:02 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:01 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 06, 2024 10:58:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 395
+2024.07.06 22:58:02 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:02 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:02 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:02 WARN  no build target for: D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala
+2024.07.06 22:58:03 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:39 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:39 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:39 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:39 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:41 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:42 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:43 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:43 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:43 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:45 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:45 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:45 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:46 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:45 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:46 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:46 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:47 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:47 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:47 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:47 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:47 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:47 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:47 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:47 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:47 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:58:48 WARN  no build target for: D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala
+2024.07.06 22:58:48 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.06 22:59:35 INFO  Shutting down server
+2024.07.06 22:59:35 INFO  shutting down Metals
+2024.07.06 22:59:35 INFO  Shut down connection with build server.
+2024.07.06 22:59:35 INFO  Exiting server
+2024.07.08 10:35:11 INFO  Started: Metals version 1.3.2 in folders 'D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03' for client Visual Studio Code 1.91.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@1053796b]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@1df057b4]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@1053796b]
+2024.07.08 10:35:12 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.08 10:35:13 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 10:35:13 INFO  Attempting to connect to the build server...
+2024.07.08 10:35:13 INFO  Running BSP server List(C:\Users\manet\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\.scala-build\ide-options-v2.json, --json-launcher-options, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\.scala-build\ide-launcher-options.json, --envs-file, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\.scala-build\ide-envs.json, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03)
+2024.07.08 10:35:13 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\.metals\bsp.trace.json or C:\Users\manet\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.08 10:35:16 INFO  BSP server: Starting compilation server
+2024.07.08 10:35:20 INFO  time: Connected to build server in 6.73s
+2024.07.08 10:35:20 INFO  Connected to Build server: scala-cli v1.3.2
+2024.07.08 10:35:20 INFO  time: Imported build in 0.1s
+2024.07.08 10:35:21 INFO  time: indexed workspace in 1.15s
+2024.07.08 10:35:21 WARN  no build target for: D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala
+2024.07.08 10:35:59 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 10:35:59 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\Practical 03\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.08 10:36:14 INFO  Shutting down server
+2024.07.08 10:36:14 INFO  shutting down Metals
+2024.07.08 10:36:14 INFO  Shut down connection with build server.
+2024.07.08 10:36:14 INFO  Exiting server

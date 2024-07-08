@@ -1,4 +1,4 @@
-import scala.math.BigDecimal
+// import scala.math.BigDecimal
 
 def ArithmeticMean(num1 : Double, num2 : Double) : Double = {
     val mean = ((num1 + num2)/2.0)
