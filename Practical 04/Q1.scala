@@ -66,7 +66,7 @@ object BookShop extends App()
     println("Available books and available book count ;");
     displayInventory(bookNames,bookQuantity)
 
-    restockItem("Harry Potter",5)
-    sellItem("Peaky Blinders",30)
+    //restockItem("Harry Potter",2)
+    sellItem("Peaky Blinder",3)
 }
 
