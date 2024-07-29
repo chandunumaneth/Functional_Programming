@@ -1,3 +1,5 @@
+import scala.io.StdIn
+
 object LibraryManagementSystem {
     case class Book (title : String, author : String, isbn : String)
 
@@ -45,6 +47,29 @@ object LibraryManagementSystem {
         matchCollection.zipWithIndex.foreach {
             case (book,index) => println(s"Book Number : ${index+1}\nBook Name : ${book.title}\nBook Author : ${book.author}\nBook ISBN : ${book.isbn}\n")
         }
+    }
+
+    def enterTitle() : Any = {
+
+        println("Do you want to search for a book by title? (y/n) : ");
+        val selection = StdIn.readChar()
+
+        if(selection.toLower=='n')
+            return
+        else if(selection.toLower=='y')
+        {
+            println("Enter book title you want to search for : ");
+            val title = StdIn.readLine()
+
+            findByTitle(title)
+        }
+        else
+        {
+            println("Invalid Choice!\n")
+            enterTitle()
+        }
+
+        
     }
 
     def findByTitle(bookTitle : String) : Unit = {
@@ -99,13 +124,15 @@ object LibraryManagementSystem {
 
         findBook("00-02")
 
-        findByTitle("Intestella")
+        //findByTitle("Intestella")
 
         booksByAuthor("J. K. Rowling")
 
         val book5 = Book("Fantastic Beasts", "J. K. Rowling", "00-05")
 
         addBook(book5)
+
+        enterTitle()
         
     }
 
