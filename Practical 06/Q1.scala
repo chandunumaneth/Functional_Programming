@@ -9,6 +9,10 @@ object Inventory extends App {
     103 -> Product("Grapes", 20, 30.45)
   )
 
+  val inventory3 : Map[ProductID, Product] = Map(
+
+  )
+
   val inventory2: Map[ProductID, Product] = Map(
     102 -> Product("Banana", 10, 60.50),
     104 -> Product("Papaya", 3, 40.25)
@@ -53,6 +57,8 @@ object Inventory extends App {
   println(s"Total value of Inventory 1: ${totalValue(inventory1)}")
 
   println(s"Is Inventory 1 empty? ${isInventoryEmpty(inventory1)}")
+
+  println(s"Is Inventory 3 empty? ${isInventoryEmpty(inventory3)}")
 
   val mergedInventory = mergeInventories(inventory1, inventory2)
 
