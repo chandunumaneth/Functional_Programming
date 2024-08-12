@@ -1,0 +1,451 @@
+2024.08.11 00:08:45 INFO  Started: Metals version 1.3.5 in folders 'D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8' for client Visual Studio Code 1.92.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@7daa2ee8]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@3087c294]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@7daa2ee8]
+2024.08.11 00:08:45 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.11 00:08:46 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.11 00:08:49 INFO  Running List(C:\Users\manet\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8)
+2024.08.11 00:08:49 INFO  Attempting to connect to the build server...
+2024.08.11 00:08:49 INFO  Running BSP server List(C:\Users\manet\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.scala-build\ide-options-v2.json, --json-launcher-options, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.scala-build\ide-launcher-options.json, --envs-file, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.scala-build\ide-envs.json, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8)
+2024.08.11 00:08:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.metals\bsp.trace.json or C:\Users\manet\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.11 00:08:52 INFO  BSP server: Starting compilation server
+2024.08.11 00:09:04 INFO  time: Connected to build server in 14s
+2024.08.11 00:09:04 INFO  Connected to Build server: scala-cli v1.3.2
+2024.08.11 00:09:06 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:09:09 INFO  time: Imported build in 4.46s
+2024.08.11 00:09:09 INFO  running doctor check
+2024.08.11 00:09:09 INFO  java targets: 8_eabf8badfb-test, 8_eabf8badfb
+2024.08.11 00:09:14 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.11 00:09:16 INFO  time: indexed workspace in 7.73s
+2024.08.11 00:09:52 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:09:53 INFO  time: compiled 8_eabf8badfb in 1.65s
+2024.08.11 00:10:41 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:10:41 INFO  time: compiled 8_eabf8badfb in 0.89s
+2024.08.11 00:10:42 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:10:42 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:10:53 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:10:56 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:10:56 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:10:57 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:10:59 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:05 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:08 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:10 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:10 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+Aug 11, 2024 12:11:10 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.metals\.reports\metals-full\2024-08-11\r_compiler-error_(8_eabf8badfb)_00-11-10-745.md
+2024.08.11 00:11:11 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:13 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:16 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:17 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:18 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:18 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:29 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:34 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:35 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:36 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:37 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:37 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:37 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:37 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:38 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:40 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:41 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:41 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:46 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:53 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:56 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:57 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:11:59 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:04 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:05 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:06 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:07 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+Aug 11, 2024 12:12:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 601
+2024.08.11 00:12:08 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:10 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:11 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:11 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:12 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:13 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:14 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:14 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:15 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:16 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:16 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:17 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:17 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:19 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:19 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:23 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:24 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:24 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:25 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:27 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:30 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:31 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:32 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:33 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:34 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:35 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:35 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:36 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:37 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:38 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:39 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:40 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:42 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:49 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:50 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:51 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:51 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:51 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:53 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:53 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:12:56 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:22 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:24 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:26 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:27 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:28 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:28 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:31 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:32 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:33 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:39 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:41 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:41 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:41 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:43 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:43 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:45 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:46 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:47 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:49 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:50 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:51 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:53 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:55 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:55 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:56 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:57 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:58 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:59 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:13:59 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:14:01 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:14:49 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:14:51 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:14:51 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:14:52 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:14:52 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:14:53 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:14:54 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:14:54 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:14:55 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:14:55 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:14:56 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:14:57 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:06 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:11 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:12 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:12 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:15 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:16 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:17 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:17 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:20 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:21 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:21 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:23 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:24 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:34 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:34 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:38 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:39 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:39 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:41 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:42 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:46 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:47 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:15:56 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:15:56 INFO  time: compiled 8_eabf8badfb in 0.39s
+2024.08.11 00:15:57 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:16:07 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:16:07 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:16:11 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:16:11 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:16:29 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:16:35 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:16:36 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:16:40 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:16:46 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:16:49 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:16:56 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:17:04 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:17:13 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:17:16 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:17:17 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:17:17 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:17:18 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:17:18 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:17:21 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:17:23 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:17:24 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:17:25 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:17:25 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:17:32 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:17:35 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:17:36 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:17:37 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:17:37 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:17:38 WARN  Could not load snapshot text for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala
+2024.08.11 00:17:41 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:17:41 INFO  time: compiled 8_eabf8badfb in 0.73s
+2024.08.11 00:18:00 WARN  Could not find semantic tokens for: file:///D:/UCSC/Year%2002/Y2S1/Functional%20Programming/Practicals/8/Q1.scala
+2024.08.11 00:18:01 WARN  Could not find semantic tokens for: file:///D:/UCSC/Year%2002/Y2S1/Functional%20Programming/Practicals/8/Q1.scala
+2024.08.11 00:18:01 WARN  Could not find semantic tokens for: file:///D:/UCSC/Year%2002/Y2S1/Functional%20Programming/Practicals/8/Q1.scala
+2024.08.11 00:18:01 WARN  Could not find semantic tokens for: file:///D:/UCSC/Year%2002/Y2S1/Functional%20Programming/Practicals/8/Q1.scala
+Aug 11, 2024 12:18:29 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1828
+2024.08.11 00:20:55 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:20:55 INFO  time: compiled 8_eabf8badfb in 0.37s
+Aug 11, 2024 12:21:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2882
+Aug 11, 2024 12:21:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2901
+Aug 11, 2024 12:21:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3059
+2024.08.11 00:21:57 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:21:57 INFO  time: compiled 8_eabf8badfb in 0.34s
+2024.08.11 00:22:03 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:22:03 INFO  time: compiled 8_eabf8badfb in 0.3s
+2024.08.11 00:24:06 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:24:06 INFO  time: compiled 8_eabf8badfb in 0.22s
+2024.08.11 00:24:51 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:24:51 INFO  time: compiled 8_eabf8badfb in 0.53s
+Aug 11, 2024 12:24:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3833
+Aug 11, 2024 12:25:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4001
+2024.08.11 00:25:59 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:25:59 INFO  time: compiled 8_eabf8badfb in 0.38s
+2024.08.11 00:28:47 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:28:47 INFO  time: compiled 8_eabf8badfb in 0.45s
+2024.08.11 00:28:52 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:28:52 INFO  time: compiled 8_eabf8badfb in 0.3s
+Aug 11, 2024 12:33:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5535
+2024.08.11 00:33:51 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:33:51 INFO  time: compiled 8_eabf8badfb in 0.52s
+2024.08.11 00:34:37 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:34:37 INFO  time: compiled 8_eabf8badfb in 0.25s
+2024.08.11 00:34:58 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:34:58 INFO  time: compiled 8_eabf8badfb in 0.27s
+2024.08.11 00:35:22 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:35:22 INFO  time: compiled 8_eabf8badfb in 0.26s
+2024.08.11 00:42:00 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.11 00:42:00 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.11 00:42:01 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:42:01 INFO  time: compiled 8_eabf8badfb in 0.2s
+2024.08.11 00:42:01 WARN  Could not find semantic tokens for: file:///D:/UCSC/Year%2002/Y2S1/Functional%20Programming/Practicals/8/Q2.scala
+2024.08.11 00:42:01 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.11 00:42:00 INFO  running doctor check
+2024.08.11 00:42:00 INFO  java targets: 8_eabf8badfb-test, 8_eabf8badfb
+2024.08.11 00:42:01 INFO  time: code lens generation in 1.14s
+2024.08.11 00:42:03 WARN  Could not find semantic tokens for: file:///D:/UCSC/Year%2002/Y2S1/Functional%20Programming/Practicals/8/Q2.scala
+2024.08.11 00:42:03 WARN  Could not find semantic tokens for: file:///D:/UCSC/Year%2002/Y2S1/Functional%20Programming/Practicals/8/Q2.scala
+2024.08.11 00:42:04 INFO  time: indexed workspace in 3.53s
+2024.08.11 00:42:10 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:42:10 INFO  time: compiled 8_eabf8badfb in 0.14s
+Aug 11, 2024 12:42:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5919
+2024.08.11 00:43:40 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:43:40 INFO  time: compiled 8_eabf8badfb in 0.61s
+2024.08.11 00:44:32 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:44:32 INFO  time: compiled 8_eabf8badfb in 0.33s
+2024.08.11 00:45:15 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:45:15 INFO  time: compiled 8_eabf8badfb in 0.28s
+2024.08.11 00:46:31 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:46:31 INFO  time: compiled 8_eabf8badfb in 0.27s
+Aug 11, 2024 12:47:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7165
+2024.08.11 00:48:13 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:48:13 INFO  time: compiled 8_eabf8badfb in 0.46s
+Aug 11, 2024 12:48:30 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.metals\.reports\metals-full\2024-08-11\r_compiler-error_(8_eabf8badfb)_00-48-30-951.md
+Aug 11, 2024 12:48:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.metals\.reports\metals-full\2024-08-11\r_compiler-error_(8_eabf8badfb)_00-48-31-419.md
+Aug 11, 2024 12:48:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.metals\.reports\metals-full\2024-08-11\r_compiler-error_(8_eabf8badfb)_00-48-31-572.md
+Aug 11, 2024 12:50:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7906
+Aug 11, 2024 12:50:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8075
+2024.08.11 00:52:45 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 00:52:45 INFO  time: compiled 8_eabf8badfb in 0.26s
+Aug 11, 2024 1:18:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8913
+Aug 11, 2024 1:18:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9103
+Aug 11, 2024 1:19:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.metals\.reports\metals-full\2024-08-11\r_compiler-error_(8_eabf8badfb)_01-19-07-460.md
+Aug 11, 2024 1:19:08 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.metals\.reports\metals-full\2024-08-11\r_compiler-error_(8_eabf8badfb)_01-19-08-031.md
+Aug 11, 2024 1:19:08 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.metals\.reports\metals-full\2024-08-11\r_compiler-error_(8_eabf8badfb)_01-19-08-233.md
+Aug 11, 2024 1:19:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9256
+Aug 11, 2024 1:21:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9343
+2024.08.11 01:21:52 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:21:53 INFO  time: compiled 8_eabf8badfb in 1.09s
+Aug 11, 2024 1:22:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9590
+2024.08.11 01:22:40 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:22:40 INFO  time: compiled 8_eabf8badfb in 0.59s
+Aug 11, 2024 1:22:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9638
+2024.08.11 01:23:41 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:23:41 INFO  time: compiled 8_eabf8badfb in 0.41s
+2024.08.11 01:23:46 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:23:46 INFO  time: compiled 8_eabf8badfb in 0.34s
+Aug 11, 2024 1:24:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10317
+2024.08.11 01:25:06 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:25:06 INFO  time: compiled 8_eabf8badfb in 0.36s
+2024.08.11 01:25:11 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:25:11 INFO  time: compiled 8_eabf8badfb in 0.28s
+Aug 11, 2024 1:26:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10594
+2024.08.11 01:27:57 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:27:57 INFO  time: compiled 8_eabf8badfb in 0.35s
+Aug 11, 2024 1:28:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10971
+Aug 11, 2024 1:28:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11002
+2024.08.11 01:30:00 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:30:00 INFO  time: compiled 8_eabf8badfb in 0.21s
+2024.08.11 01:31:10 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:31:10 INFO  time: compiled 8_eabf8badfb in 0.18s
+2024.08.11 01:31:21 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:31:21 INFO  time: compiled 8_eabf8badfb in 0.64s
+2024.08.11 01:31:58 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:31:58 INFO  time: compiled 8_eabf8badfb in 0.37s
+2024.08.11 01:32:00 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:32:00 INFO  time: compiled 8_eabf8badfb in 0.35s
+2024.08.11 01:33:26 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q2org.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.11 01:33:26 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q2org.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.11 01:33:26 WARN  Could not find semantic tokens for: file:///D:/UCSC/Year%2002/Y2S1/Functional%20Programming/Practicals/8/Q2org.scala
+2024.08.11 01:33:26 INFO  running doctor check
+2024.08.11 01:33:26 INFO  java targets: 8_eabf8badfb-test, 8_eabf8badfb
+2024.08.11 01:33:26 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:33:26 INFO  time: compiled 8_eabf8badfb in 0.11s
+2024.08.11 01:33:28 WARN  Could not find semantic tokens for: file:///D:/UCSC/Year%2002/Y2S1/Functional%20Programming/Practicals/8/Q2org.scala
+2024.08.11 01:33:29 INFO  time: indexed workspace in 2.31s
+2024.08.11 01:33:29 WARN  Could not find semantic tokens for: file:///D:/UCSC/Year%2002/Y2S1/Functional%20Programming/Practicals/8/Q2org.scala
+2024.08.11 01:33:29 WARN  Could not find semantic tokens for: file:///D:/UCSC/Year%2002/Y2S1/Functional%20Programming/Practicals/8/Q2org.scala
+Aug 11, 2024 1:33:30 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11700
+2024.08.11 01:33:30 WARN  Could not find semantic tokens for: file:///D:/UCSC/Year%2002/Y2S1/Functional%20Programming/Practicals/8/Q2org.scala
+2024.08.11 01:33:30 WARN  Could not find semantic tokens for: file:///D:/UCSC/Year%2002/Y2S1/Functional%20Programming/Practicals/8/Q2org.scala
+2024.08.11 01:33:30 WARN  Could not find semantic tokens for: file:///D:/UCSC/Year%2002/Y2S1/Functional%20Programming/Practicals/8/Q2org.scala
+2024.08.11 01:33:31 WARN  Could not find semantic tokens for: file:///D:/UCSC/Year%2002/Y2S1/Functional%20Programming/Practicals/8/Q2org.scala
+2024.08.11 01:33:32 WARN  Could not find semantic tokens for: file:///D:/UCSC/Year%2002/Y2S1/Functional%20Programming/Practicals/8/Q2org.scala
+2024.08.11 01:33:42 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:33:42 INFO  time: compiled 8_eabf8badfb in 0.12s
+Aug 11, 2024 1:33:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11839
+Aug 11, 2024 1:35:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12356
+Aug 11, 2024 1:35:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12760
+Aug 11, 2024 1:36:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12971
+Aug 11, 2024 1:36:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13267
+Aug 11, 2024 1:37:06 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.metals\.reports\metals-full\2024-08-11\r_compiler-error_(8_eabf8badfb)_01-37-06-537.md
+Aug 11, 2024 1:37:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13732
+Aug 11, 2024 1:38:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14110
+2024.08.11 01:38:52 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:38:52 INFO  time: compiled 8_eabf8badfb in 0.99s
+2024.08.11 01:39:03 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:39:03 INFO  time: compiled 8_eabf8badfb in 0.6s
+Aug 11, 2024 1:40:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14214
+2024.08.11 01:41:17 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:41:17 INFO  time: compiled 8_eabf8badfb in 0.45s
+2024.08.11 01:42:02 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:42:02 INFO  time: compiled 8_eabf8badfb in 0.14s
+Aug 11, 2024 1:42:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14437
+2024.08.11 01:42:10 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:42:10 INFO  time: compiled 8_eabf8badfb in 0.47s
+Aug 11, 2024 1:42:37 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.metals\.reports\metals-full\2024-08-11\r_compiler-error_(8_eabf8badfb)_01-42-37-707.md
+Aug 11, 2024 1:43:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14855
+2024.08.11 01:44:15 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:44:15 INFO  time: compiled 8_eabf8badfb in 0.28s
+2024.08.11 01:44:25 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:44:26 INFO  time: compiled 8_eabf8badfb in 1.07s
+Aug 11, 2024 1:45:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15217
+2024.08.11 01:45:06 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:45:06 INFO  time: compiled 8_eabf8badfb in 0.42s
+2024.08.11 01:45:35 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:45:35 INFO  time: compiled 8_eabf8badfb in 0.38s
+2024.08.11 01:45:55 INFO  Cancelling compilation on scala-cli server
+2024.08.11 01:45:55 INFO  time: Imported build in 0.15s
+2024.08.11 01:45:55 INFO  running doctor check
+2024.08.11 01:45:55 INFO  java targets: 8_eabf8badfb-test, 8_eabf8badfb
+2024.08.11 01:45:57 INFO  time: indexed workspace in 1.85s
+2024.08.11 01:46:04 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.11 01:46:04 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.11 01:46:04 INFO  Cancelling compilation on scala-cli server
+2024.08.11 01:46:04 INFO  compiling 8_eabf8badfb (2 scala sources)
+2024.08.11 01:46:04 INFO  time: compiled 8_eabf8badfb in 0.59s
+2024.08.11 01:46:05 INFO  time: Imported build in 0.72s
+2024.08.11 01:46:05 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.11 01:46:05 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.11 01:46:06 WARN  no build target for: D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q2.scala
+2024.08.11 01:46:07 INFO  running doctor check
+2024.08.11 01:46:07 INFO  java targets: 8_eabf8badfb-test, 8_eabf8badfb
+2024.08.11 01:46:07 INFO  time: code lens generation in 2.33s
+2024.08.11 01:46:07 INFO  time: code lens generation in 2.04s
+2024.08.11 01:46:09 INFO  time: indexed workspace in 3.5s
+2024.08.11 01:46:09 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.11 01:46:09 INFO  time: compiled 8_eabf8badfb in 0.3s
+2024.08.11 01:52:12 INFO  Shutting down server
+2024.08.11 01:52:12 INFO  shutting down Metals
+2024.08.11 01:52:13 INFO  Shut down connection with build server.
+2024.08.11 01:52:13 INFO  Exiting server
+2024.08.12 18:51:12 INFO  Started: Metals version 1.3.5 in folders 'D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8' for client Visual Studio Code 1.92.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@4f71c2af]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@15c16d9f]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@4f71c2af]
+2024.08.12 18:51:13 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.12 18:51:14 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q2.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 18:51:14 INFO  Attempting to connect to the build server...
+2024.08.12 18:51:14 INFO  Running BSP server List(C:\Users\manet\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.scala-build\ide-options-v2.json, --json-launcher-options, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.scala-build\ide-launcher-options.json, --envs-file, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.scala-build\ide-envs.json, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8)
+2024.08.12 18:51:16 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.metals\bsp.trace.json or C:\Users\manet\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.12 18:51:19 INFO  time: Connected to build server in 5.6s
+2024.08.12 18:51:19 INFO  Connected to Build server: scala-cli v1.3.2
+2024.08.12 18:51:20 INFO  time: Imported build in 0.11s
+2024.08.12 18:51:19 INFO  running doctor check
+2024.08.12 18:51:19 INFO  java targets: 8_eabf8badfb-test, 8_eabf8badfb
+2024.08.12 18:51:24 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.12 18:51:24 INFO  time: indexed workspace in 5.12s
+2024.08.12 18:52:52 INFO  compiling 8_eabf8badfb (1 scala source)
+2024.08.12 18:52:52 INFO  time: compiled 8_eabf8badfb in 0.38s
+2024.08.12 18:53:39 INFO  Shutting down server
+2024.08.12 18:53:39 INFO  shutting down Metals
+2024.08.12 18:53:40 INFO  Shut down connection with build server.
+2024.08.12 18:53:39 INFO  Exiting server
