@@ -449,3 +449,50 @@ SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@4f71c2a
 2024.08.12 18:53:39 INFO  shutting down Metals
 2024.08.12 18:53:40 INFO  Shut down connection with build server.
 2024.08.12 18:53:39 INFO  Exiting server
+2024.08.12 20:01:29 INFO  Started: Metals version 1.3.5 in folders 'D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8' for client Visual Studio Code 1.92.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@24b83811]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@2df5604d]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@24b83811]
+2024.08.12 20:01:29 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.12 20:01:30 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.12 20:01:30 INFO  Attempting to connect to the build server...
+2024.08.12 20:01:30 INFO  Running BSP server List(C:\Users\manet\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.scala-build\ide-options-v2.json, --json-launcher-options, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.scala-build\ide-launcher-options.json, --envs-file, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.scala-build\ide-envs.json, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8)
+2024.08.12 20:01:32 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.metals\bsp.trace.json or C:\Users\manet\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.12 20:01:35 INFO  time: Connected to build server in 4.95s
+2024.08.12 20:01:35 INFO  Connected to Build server: scala-cli v1.3.2
+2024.08.12 20:01:36 INFO  time: Imported build in 0.13s
+2024.08.12 20:01:36 INFO  running doctor check
+2024.08.12 20:01:36 INFO  java targets: 8_eabf8badfb-test, 8_eabf8badfb
+2024.08.12 20:01:37 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.12 20:01:37 INFO  time: indexed workspace in 2.15s
+Aug 12, 2024 8:07:52 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+2024.08.12 20:08:28 INFO  Shutting down server
+2024.08.12 20:08:28 INFO  shutting down Metals
+2024.08.12 20:08:28 INFO  Shut down connection with build server.
+2024.08.12 20:08:28 INFO  Exiting server
+2024.08.13 09:39:20 INFO  Started: Metals version 1.3.5 in folders 'D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8' for client Visual Studio Code 1.92.1.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@13e61ee7]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@263fd5e2]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@13e61ee7]
+2024.08.13 09:39:20 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.13 09:39:22 INFO  no build target found for D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\Q1.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.08.13 09:39:22 INFO  Attempting to connect to the build server...
+2024.08.13 09:39:22 INFO  Running BSP server List(C:\Users\manet\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.scala-build\ide-options-v2.json, --json-launcher-options, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.scala-build\ide-launcher-options.json, --envs-file, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.scala-build\ide-envs.json, D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8)
+2024.08.13 09:39:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\UCSC\Year 02\Y2S1\Functional Programming\Practicals\8\.metals\bsp.trace.json or C:\Users\manet\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.08.13 09:39:28 INFO  time: Connected to build server in 5.66s
+2024.08.13 09:39:28 INFO  Connected to Build server: scala-cli v1.3.2
+2024.08.13 09:39:28 INFO  running doctor check
+2024.08.13 09:39:28 INFO  java targets: 8_eabf8badfb-test, 8_eabf8badfb
+2024.08.13 09:39:35 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.08.13 09:39:38 INFO  time: indexed workspace in 9.48s
+Aug 13, 2024 9:43:31 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.08.13 14:23:08 INFO  Shutting down server
+2024.08.13 14:23:08 INFO  shutting down Metals
+2024.08.13 14:23:09 INFO  Shut down connection with build server.
+2024.08.13 14:23:08 INFO  Exiting server
